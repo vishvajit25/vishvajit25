@@ -63,7 +63,9 @@
 <div style="display: block;">
 <p>
   <h3 align="center">Stats:</h3>
-<p>
+<p> <a align="left">
+      <p><img align="left" 
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=vishvajit25&show_icons=true&theme=dark&locale=en&hide=jupyter%20notebook,lex,&langs_count=8" alt="vishvajit25" /></p></a>
    
     <a align="right"><p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=vishvajit25&show_icons=true&theme=dark&locale=en" alt="vishvajit25" /></p></a>  
   </p>
