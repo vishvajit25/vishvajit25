@@ -1,4 +1,4 @@
-  ![Welcome to my profile](https://github.com/vishvajit25/Profile/blob/main/hello.jpg?raw=true)
+<h1> Welcome to my profile </h1>
 
 <hr>
 <!-- MAIN PHRASE SECTION -->
