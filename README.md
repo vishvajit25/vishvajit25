@@ -84,10 +84,10 @@ Vishvajit.skills.push(...languages, ...frameworks, ...databases);
 <hr/>
 
 <p align="center">
-  <a href="https://github.com/dev-akshat/state-of-matter">
+  <a href="https://github.com/vishvajit25/Automated-PhD-Admission-Application">
     <img align="center" alt="Automated PHD Application" src="https://github-readme-stats.vercel.app/api/pin/?username=vishvajit25&repo=Automated-PhD-Admission-Application" />
   </a>
-  <a href="https://github.com/dev-akshat/HackerNews">
+  <a href="https://github.com/vishvajit25/Crop-Prediction-Application">
     <img align="center" alt="HackerNews" src="https://github-readme-stats.vercel.app/api/pin/?username=vishvajit25&repo=Crop-Prediction-Application" />
   </a>
 </p>
