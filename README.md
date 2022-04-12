@@ -30,21 +30,20 @@
 
 <h2 align="center">About</h2>
 
-- **Plateforms :** **_Web, Desktop, <img src="https://www.gstatic.com/devrel-devsite/prod/v36e9b4a2fdc696650f09851e8c880b958655492821ded3455f80aaef87b6b52b/android/images/lockup.svg" width=70/>, Server_**
-- **Languages :** <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>, <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>, <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>, <img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>, <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>, <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+- **Languages :** <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>, <img src="https://img.shields.io/badge/python%20-%23323330.svg?&style=for-the-badge&logo=python&logoColor=%23F7DF1E"/>,<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>, <img src="https://img.shields.io/badge/html-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>, <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>, <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
 
-- **Frameworks :** <img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />, <img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>, <img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>, <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>, <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg" width=80/>
+- **Frameworks :**  <img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>, <img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>, <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 
-- **Databses :** <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/database/cloud_firestore.svg" width=100/>, <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/database/postgresql.svg" width=80/>, <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/database/oracle.svg" width=80/>
+- **Databses :** <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/database/cloud_firestore.svg" width=100/>,  <img src="https://firebase.google.com/images/brand-guidelines/logo-built_white.png" width=80/>
 
-- **Hobbies :** **_Manga📜Reading_,<img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/mini/xbox.svg" width=60/>** **_, Watching👀Anime_**
+- **Hobbies :** **_Manga📜Reading_,<img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/mini/xbox.svg" width=60/>Video Gaming** **_, Watching👀Anime_**
 
 <hr/>
 
-<p align="left" >
-<img  align="left" alt="ArrowDownward" width="10%" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/symbols/arrow_downward.svg"/><h3 align="left">FAVOURITE LANGUAGES</h3>
-  <img align="right" alt="Angular" width="10%" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/frameworks/angular.svg"/>
- <img width="10%" alt="NestJS" align="right" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/frameworks/nestjs.svg"/>
+<!-- <p align="left" >
+<img  align="left" alt="ArrowDownward" color="white" width="10%" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/symbols/arrow_downward.svg"/><h3 align="left">FAVOURITE LANGUAGES</h3>
+  <img align="right" alt="C++" width="10%" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+<!--  <img width="10%" alt="NestJS" align="right" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/frameworks/nestjs.svg"/> 
   <img width="10%" alt="Flutter" align="right" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/frameworks/flutterio.svg"/>
   <br />
   <br />
@@ -65,7 +64,7 @@
   <img  align="left" alt="Python" width="10%" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/languages/python.svg"/>
   <br />
   <br />
-</p>
+</p> -->
 
 <hr/>
 
@@ -87,18 +86,18 @@ Akshat.skills.push(...languages, ...frameworks, ...databases);
 
 <p align="center">
   <a href="https://github.com/dev-akshat/state-of-matter">
-    <img align="center" alt="StateOfMatter" src="https://github-readme-stats.vercel.app/api/pin/?username=dev-akshat&repo=state-of-matter" />
+    <img align="center" alt="Automated PHD Application" src="https://github-readme-stats.vercel.app/api/pin/?username=vishvajit25&repo=Automated-PhD-Admission-Application" />
   </a>
   <a href="https://github.com/dev-akshat/HackerNews">
-    <img align="center" alt="HackerNews" src="https://github-readme-stats.vercel.app/api/pin/?username=dev-akshat&repo=HackerNews" />
+    <img align="center" alt="HackerNews" src="https://github-readme-stats.vercel.app/api/pin/?username=vishvajit25&repo=Crop-Prediction-Application" />
   </a>
 </p>
 
 <hr/>
 
 <p align="center">
-  <img align="center" alt="Akshat's github stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=dev-akshat&show_icons=true&include_all_commits=true&bg_color=30,434343,000000&title_color=fe428e&text_color=f1f1eb"  />
-  <img align="center" alt="Akshat's github stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dev-akshat&layout=compact&langs_count=10&hide=html,css&bg_color=30,000000,434343&title_color=fe428e&text_color=f1f1eb" />
+  <img align="center" alt="Akshat's github stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=vishvajit25&show_icons=true&include_all_commits=true&bg_color=30,434343,000000&title_color=fe428e&text_color=f1f1eb"  />
+  <img align="center" alt="Akshat's github stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=vishvajit25&layout=compact&langs_count=10&hide=html,css&bg_color=30,000000,434343&title_color=fe428e&text_color=f1f1eb" />
 </p>
 
 <br/>
@@ -110,7 +109,7 @@ Akshat.skills.push(...languages, ...frameworks, ...databases);
 </p>
 
 <p align="center"> 
-  <img src="https://profile-counter.glitch.me/dev-akshat/count.svg" alt="dev-akshat profile views" /> 
+  <img src="https://profile-counter.glitch.me/dev-akshat/count.svg" alt="dev-vishvajit25 profile views" /> 
 </p>
 
 <hr/>
@@ -119,26 +118,26 @@ Akshat.skills.push(...languages, ...frameworks, ...databases);
 
 <p align="center">
 
-  <a href="https://www.linkedin.com/in/akshat-tamrakar">
+  <a href="https://www.linkedin.com/in/vishvajit-s/">
     <img  alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/linkedin.svg"/>
   &nbsp&nbsp&nbsp&nbsp
-  <a href="https://www.hackerrank.com/dev_akshat">
+  <a href="https://www.hackerrank.com/Vishvajit_S">
     <img  alt="HackerRank" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/hacker_rank.svg"/>
   </a>
   &nbsp&nbsp&nbsp&nbsp
-  <a href="https://github.com/dev-akshat">
+  <a href="https://github.com/vishvajit25">
     <img alt="GitHub" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/github.svg"/>
   </a>
   &nbsp&nbsp&nbsp&nbsp
-  <a href="https://www.instagram.com/a.k.s.h.a.t">
+  <a href="https://www.instagram.com/vishvajit_.s">
     <img  alt="Instagram" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/instagram.svg"/>
   </a>
   &nbsp&nbsp&nbsp&nbsp
-  <a href="https://www.facebook.com/i.am.akshat.tamrakar">
+  <a href="https://www.facebook.com/vishvajit25">
     <img alt="Facebook" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/facebook.svg"/>
   </a>
   &nbsp&nbsp&nbsp&nbsp
-  <a href="https://twitter.com/AkshatTamraka12">
+  <a href="https://twitter.com/Vishvajit25">
     <img alt="Twitter" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/twitter.svg"/>
   </a>
 
@@ -151,8 +150,7 @@ Akshat.skills.push(...languages, ...frameworks, ...databases);
 </p>
 
 <p align="center">
-  Made with ❤️ in Bhopal
+  Made with ❤️ by Vishvajit S
 </p>
 
 -----
-Credits: [Akshat Tamrakar](https://github.com/dev-akshat)
