@@ -75,11 +75,10 @@
 </p>
 
 ```javascript
-import { Akshat } from "Awesome";
-const languages = ["Python", "Typescript", "Javascript", "Dart", "Java", "C++"];
-const frameworks = ["Flutter", "Angular", "React", "Django", "NestJS"];
-const databases = ["PostgreSQL", "CloudFireStore", "Oracle"];
-Akshat.skills.push(...languages, ...frameworks, ...databases);
+import { Vishvajit  } from "Awesome";
+const languages = ["Python", , "Javascript", "Java", "C++"];
+const databases = ["MySQL", "CloudFireStore", "FireBase"];
+Vishvajit.skills.push(...languages, ...frameworks, ...databases);
 ```
 
 <hr/>
@@ -96,7 +95,7 @@ Akshat.skills.push(...languages, ...frameworks, ...databases);
 <hr/>
 
 <p align="center">
-  <img align="center" alt="Akshat's github stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=vishvajit25&show_icons=true&include_all_commits=true&bg_color=30,434343,000000&title_color=fe428e&text_color=f1f1eb"  />
+  <img align="center" alt="Vishvajit's github stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=vishvajit25&show_icons=true&include_all_commits=true&bg_color=30,434343,000000&title_color=fe428e&text_color=f1f1eb"  />
   <img align="center" alt="Akshat's github stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=vishvajit25&layout=compact&langs_count=10&hide=html,css&bg_color=30,000000,434343&title_color=fe428e&text_color=f1f1eb" />
 </p>
 
