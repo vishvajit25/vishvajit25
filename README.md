@@ -78,7 +78,7 @@
 import { Vishvajit  } from "Awesome";
 const languages = ["Python", , "Javascript", "Java", "C++"];
 const databases = ["MySQL", "CloudFireStore", "FireBase"];
-Vishvajit.skills.push(...languages, ...frameworks, ...databases);
+Vishvajit.skills.push(...languages, ...databases);
 ```
 
 <hr/>
