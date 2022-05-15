@@ -11,18 +11,11 @@
     <img alt="dev_cat" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_cat.gif" width="50"> 
 </h2>
 
-<p align="left">
-  <samp>
-    <br><br>
-    Mobile App Developer
-    <br><br>
-    And Web App Developer
-    <br><br>
-    Focusing on building innovative
-    <br><br> 
-    & native applications...
-  </samp>
-</p>
+### 
+- Android Application Developer.
+- A Computer Engineering Undergraduate Student. 
+- Currently working on Malware Analysis.
+- Learning everything I see.
 
 <hr/>
 
