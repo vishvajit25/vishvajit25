@@ -6,7 +6,7 @@
 
 <h2 align="center">
     I'm
-    <img align="right" alt="GIF" src="https://github.com/vishvajit25/Readme-content/blob/main/coding.gif" />
+    <img align="right" alt="GIF" src="https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.giff" />
     Vishvajit S
     <img alt="dev_cat" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_cat.gif" width="50"> 
 </h2>
