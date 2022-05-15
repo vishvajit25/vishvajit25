@@ -140,7 +140,7 @@ Vishvajit.skills.push(...languages, ...databases);
 </p>
 
 <p align="center">
-  Made with ❤️ by Vishvajit S
-</p>
+  Made with ❤️ by [Vishvajit S](https://github.com/vishvajit25)
+  
 
 -----
