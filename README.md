@@ -102,8 +102,6 @@ Vishvajit.skills.push(...languages, ...databases);
   </tr>
 </table>
 </div>
-    
-    Views Count
   </samp>
 </p>
 <hr/>
