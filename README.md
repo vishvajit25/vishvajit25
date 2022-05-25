@@ -106,11 +106,6 @@ Vishvajit.skills.push(...languages, ...databases);
     Views Count
   </samp>
 </p>
-
-<p align="center"> 
-  ![](https://komarev.com/ghpvc/?username=vishvajit25&label=PROFILE+VIEWS) 
-</p>
-
 <hr/>
 
 <h2 align="center">Find me on</h2>
