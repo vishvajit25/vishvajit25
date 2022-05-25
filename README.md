@@ -94,6 +94,14 @@ Vishvajit.skills.push(...languages, ...databases);
 
 <p align="center"> 
   <samp>
+    <div align="center">
+<table>
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/vishvajit25/count.svg" alt="" /></td>
+  </tr>
+</table>
+</div>
     
     Views Count
   </samp>
