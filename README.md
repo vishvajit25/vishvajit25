@@ -94,12 +94,13 @@ Vishvajit.skills.push(...languages, ...databases);
 
 <p align="center"> 
   <samp>
-    Profile Views Count
+    
+    Views Count
   </samp>
 </p>
 
 <p align="center"> 
-  <img src="https://profile-counter.glitch.me/dev-akshat/count.svg" alt="dev-vishvajit25 profile views" /> 
+  ![](https://komarev.com/ghpvc/?username=vishvajit25&label=PROFILE+VIEWS) 
 </p>
 
 <hr/>
