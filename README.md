@@ -1,8 +1,6 @@
 <h2 align="center">
-  <img alt="Hello" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/Hi.gif" width="29px"> 
   Hello,World!
-  <img alt="World !" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/earth.gif" width="24px"/>
-</h2>
+  <img alt="world" src="https://c.tenor.com/G38rWJ7c66MAAAAC/earth-world.gif"  width="40" height="20"> </h2>
 
 <h2 align="center">
     I'm
