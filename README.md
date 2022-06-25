@@ -6,9 +6,9 @@
 
 <h2 align="center">
     I'm
-    <img align="right" alt="GIF" src="https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.giff" />
+    <img align="right" alt="GIF" src="https://github.com/vishvajit25/Readme-content/blob/main/rick.gif" />
     Vishvajit S
-    <img alt="dev_cat" src="https://github.com/vishvajit25/Readme-content/blob/main/rick.gif" width="50"> 
+    <img alt="dev_cat" src=" <img alt="dev_cat" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_cat.gif" width="50"> " width="50"> 
 </h2>
 
 ### 
