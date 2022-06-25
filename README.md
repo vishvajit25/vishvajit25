@@ -8,7 +8,7 @@
     I'm
     <img align="right" alt="GIF" src="https://github.com/vishvajit25/Readme-content/blob/main/rick.gif" />
     Vishvajit S
-    <img alt="dev_cat" src=" <img alt="dev_cat" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_cat.gif"  width="50"> 
+    <img alt="dev_cat" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_cat.gif"  width="50"> 
 </h2>
 
 ### 
