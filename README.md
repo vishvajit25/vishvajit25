@@ -19,11 +19,11 @@
 <br><br>
 <h2 align="center">About</h2>
 
-- **Languages :** <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>, <img src="https://img.shields.io/badge/python%20-%23323330.svg?&style=for-the-badge&logo=python&logoColor=%23F7DF1E"/>,<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>, <img src="https://img.shields.io/badge/html-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>, <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>, <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+- **Languages :** <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>, <img src="https://img.shields.io/badge/python%20-%23323330.svg?&style=for-the-badge&logo=python&logoColor=%23F7DF1E"/>,<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>, <img src="https://img.shields.io/badge/html-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>, <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 
 - **Frameworks :**  <img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>, <img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>, <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 
-- **Databses :** <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/database/cloud_firestore.svg" width=100/>,  <img src="https://firebase.google.com/images/brand-guidelines/logo-built_white.png" width=80/>
+- **Databses :** <img src="https://miro.medium.com/max/1400/1*a2Da_CQHUsSKTCTRI2tYhQ.png" width=100/>,  <img src="https://firebase.google.com/images/brand-guidelines/logo-built_white.png" width=80/> ,<img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" width=100 />
 
 - **Hobbies :** **_Manga📜Reading_,<img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/mini/xbox.svg" width=60/>Video Gaming** **_, Watching👀Anime_**
 
