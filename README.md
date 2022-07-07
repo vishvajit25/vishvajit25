@@ -23,7 +23,7 @@
 
 - **Frameworks :**  <img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>, <img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>, <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 
-- **Databses :** <img src="https://miro.medium.com/max/1400/1*a2Da_CQHUsSKTCTRI2tYhQ.png" width=100/>,  <img src="https://firebase.google.com/images/brand-guidelines/logo-built_white.png" width=80/> ,<img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" width=100 />
+- **Databses :** <img src="https://miro.medium.com/max/1400/1*a2Da_CQHUsSKTCTRI2tYhQ.png" height=30 width=100/>,  <img src="https://firebase.google.com/images/brand-guidelines/logo-built_white.png" height=30 width=80/> ,<img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" width=100 height=30 />
 
 - **Hobbies :** **_Manga📜Reading_,<img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/mini/xbox.svg" width=60/>Video Gaming** **_, Watching👀Anime_**
 
