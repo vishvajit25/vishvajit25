@@ -17,7 +17,7 @@
 
 <hr/>
 <br><br>
-<h2 align="center">About</h2>
+<h2 align="center">🔧 Skills and Toolset : </h2>
 
 - **Languages :** <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>, <img src="https://img.shields.io/badge/python%20-%23323330.svg?&style=for-the-badge&logo=python&logoColor=%23F7DF1E"/>,<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>, <img src="https://img.shields.io/badge/html-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>, <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 
