@@ -136,7 +136,8 @@ Vishvajit.skills.push(...languages, ...databases);
 <hr/>
 
 <p align="center">
-  <img align="center" alt="OnePiece_Luffy" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/anime/luffy.gif"/>
+  <img align="center" alt="Naruto" src="https://c.tenor.com/aT15akmpipIAAAAC/naruto-uzumaki-sonriendo.gif"/>
+<!--   https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/anime/luffy.gif -->
 </p>
 
 <p align="center">
