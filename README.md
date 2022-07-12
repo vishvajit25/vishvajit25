@@ -12,7 +12,7 @@
 ### 
 - Android Application Developer.
 - A Computer Engineering Undergraduate Student. 
-- Currently working on Malware Analysis.
+- Currently working on ML integrated android applications.
 - Learning everything I see.
 
 <hr/>
