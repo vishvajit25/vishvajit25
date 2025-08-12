@@ -8,7 +8,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 💼 Application Developer at **Amara Raja Group**  
+- 💼 Senior Software Engineer at **Amara Raja Energy & Mobility**  
 - 🔭 Currently building **AI Resume & Job Description Matcher**  
 - 🌱 Learning **Generative AI, LLMs, System Design**  
 - 🎯 Goal: Become an **AI Engineer** in India's top 10 pharmaceutical companies  
